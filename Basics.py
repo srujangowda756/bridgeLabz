@@ -74,3 +74,9 @@ def greet(name):
 print(greet("srujan"))
 
 print("-------------------------------")
+
+for i in range(5):
+    print(i)
+
+print("-------------------------------")
+
